@@ -25,7 +25,7 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Shoutout to @herokudev for valuable help 
+- Shoutout to [@herokudev](https://github.com/herokudev) for valuable help 
 
 ## 📝 License
 
