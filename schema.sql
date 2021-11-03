@@ -7,5 +7,8 @@ create table animals (
 	escape_attempts integer,
 	neutered boolean,
   weight_kg decimal(10,4),
+  species varchar(45),
 	PRIMARY KEY(id)
 );
+
+-- alter table vetclinic.animals add column species varchar(45);
