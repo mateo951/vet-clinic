@@ -10,3 +10,17 @@ insert into animals values (default, 'Squirtle', '19930402', 3, false, -12.13);
 insert into animals values (default, 'Angemon', '20050612', 1, true, -45);
 insert into animals values (default, 'Boarmon', '20050607', 7, true, 20.4);
 insert into animals values (default, 'Blossom', '19981013', 3, true, 17);
+
+-- Owners data insertions
+
+insert into owners values (default, 'Sam Smith', 34);
+insert into owners values (default, 'Jennifer Orwell', 19);
+insert into owners values (default, 'Bob', 45);
+insert into owners values (default, 'Melody Pond', 77);
+insert into owners values (default, 'Dean Winchester', 14);
+insert into owners values (default, 'Jodie Whittaker', 38);
+
+-- Species data insertions
+
+insert into vetclinic.species values(default, 'Pokemon');
+insert into vetclinic.species values(default, 'Digimon');
